@@ -6,4 +6,4 @@ Estudié Periodismo en la Universidad de Santiago de Chile, Magíster en Comunic
 
 En este espacio espero compartir un poco sobre análisis en R que esté realizando, materiales de docencia y documentación para que otras personas puedan revisar y reproducir mis resultados.
 
-[Perfil académico](https://uchile.academia.edu/FelipeVillagran)) · [LinkedIn](https://www.linkedin.com/in/felipevillagranherrera/)
+[Perfil académico](https://uchile.academia.edu/FelipeVillagran) · [LinkedIn](https://www.linkedin.com/in/felipevillagranherrera/)
